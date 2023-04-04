@@ -21,9 +21,9 @@ author: CJ Sapad
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Kaggle:
+    - KNES 381 Final Project: "https://www.kaggle.com/code/cjsapad/k381-final-project/edit"
+    - More Projects: "https://www.kaggle.com/cjsapad/code"
   Author's home: "https://deanattali.com"
 
 ################
